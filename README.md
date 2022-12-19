@@ -27,7 +27,7 @@ Unzip the content of the file in your local repository
 
 ## Help
 
-Make sure that the "Solution Explorer" contains a folder called "Blit3Dv3" and the file "main.cpp".
+Make sure that the "Solution Explorer" contains a folder called "Source Files" and the file "main.cpp".
 
 ## Authors
 
